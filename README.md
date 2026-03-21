@@ -9,7 +9,7 @@
 * **Dual-Channel Monitoring:** Independently track and limit Left and Right mouse buttons.
 * **Active Protection:** Set a CPS ceiling (limit) to prevent accidental high clicking rates.
 * **Humanized Debounce:** Intelligent algorithm to smooth out click patterns and prevent double-clicking issues.
-* **Limiting modes:** Switch between hard, soft and pulse cut for different limiting methods!
+* **Limiting modes:** Switch between hard, smart and safe cut for different limiting methods!
 * **Modern UI Dashboard:**
     * Live CPS counters.
     * Fluid, lag-free gauge visualizations.
